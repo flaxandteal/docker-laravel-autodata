@@ -1,0 +1,6 @@
+Host vcssite
+    HostName bitbucket.org
+    User git
+    IdentityFile DEPLOYKEY
+    StrictHostKeyChecking no
+
